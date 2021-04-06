@@ -6,9 +6,6 @@ using UnityEngine.SceneManagement;
 
 public class ChooseScene : MonoBehaviour
 {
-    public GameObject cateye1;
-    public GameObject window1;
-    public GameObject computet1;
 
     public Animator ani;
 
